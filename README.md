@@ -28,13 +28,9 @@
 ## Как запустить проект
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/ваш_профиль/Master_task_1.git
+    git clone https://github.com/FedeVas/Master_task_1.git
     ```
-2. Установите необходимые зависимости:
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. Запустите Jupyter Notebook или скрипт:
+2. Запустите Jupyter Notebook или скрипт:
     ```sh
     jupyter notebook
     ```
@@ -45,8 +41,9 @@
 ## Метрика качества
 Работа модели оценивается по метрике MAPE (Mean Absolute Percentage Error)
 
-## Визуализации
-![Пример графика](ссылка_на_график)
+## Ссылка на Kaggle
+https://www.kaggle.com/code/vasiliifede/masterskaya-1
+
 
 ## Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной:
